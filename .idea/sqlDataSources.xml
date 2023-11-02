@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="8bfa0f3f-aeb3-4552-8b24-efdb127fdf6b" name="dnd5e Mapping">
+      <data-sources db="d47a11a5-fafc-4e66-b81a-048353e67ab3" ddl="6e59cc28-8b67-483d-8110-3a297127e7f1" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="362261b8-a131-48a0-8f18-9b98ad104485" name="dnd5e (DDL) Mapping">
+      <data-sources ddl="6e59cc28-8b67-483d-8110-3a297127e7f1" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="6e59cc28-8b67-483d-8110-3a297127e7f1" />
+          <option name="name" value="dnd5e (DDL)" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/sql/main/armor.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/backgrounds.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/classes.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/equipment.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/gift.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/items.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/objects.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/races.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/starting_money.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/trinkets.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/armor.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/backgrounds.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/classes.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/equipment.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/gift.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/items.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/objects.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/races.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/starting_money.sql" />
+              <option value="file://$PROJECT_DIR$/sql/main/trinkets.sql" />
+            </array>
+          </option>
+          <option name="outPath" value="$PROJECT_DIR$/sql" />
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
